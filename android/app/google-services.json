@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "125627096481",
+    "project_id": "lovely-995d4",
+    "storage_bucket": "lovely-995d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:125627096481:android:1ad7f34a8d0128d0f43fe0",
+        "android_client_info": {
+          "package_name": "com.lovelyLpu.lovely"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "125627096481-6pau77ds0aestk848f261qa9f079chk7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lovelyLpu.lovely",
+            "certificate_hash": "dbdfdfd100174a6a5a815cd026c5c0f12d6747bc"
+          }
+        },
+        {
+          "client_id": "125627096481-okj4kbpsiq2804pki0163blh1vm7i84r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lovelyLpu.lovely",
+            "certificate_hash": "3fee78a1d4bc967c464bb4f2d2eb52a29fe4fb66"
+          }
+        },
+        {
+          "client_id": "125627096481-qo4rb08hgjjc45cbsjlapribih4cf6ir.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lovelyLpu.lovely",
+            "certificate_hash": "3eefa083cf20ce4ec7e4b0f9155aca5d266cf2d7"
+          }
+        },
+        {
+          "client_id": "125627096481-p5fbn02fqcs5p31lvcffosj3jl8bjea6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzDATjkSPgfsiq5ExdWXS9RrSJDqiZgNw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "125627096481-p5fbn02fqcs5p31lvcffosj3jl8bjea6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
