@@ -382,7 +382,7 @@ class _ProfileFormState extends State<ProfileForm> {
                           decoration: BoxDecoration(),
                           child: Center(
                             child: Text(
-                              'Save',
+                              'Sav',
                               style: TextStyle(
                                   fontWeight: FontWeight.bold,
                                   fontFamily: 'Montserrat'),
